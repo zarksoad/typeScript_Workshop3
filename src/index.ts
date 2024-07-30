@@ -1,1 +1,1 @@
-console.log("¡Hola, TypeScript y Node.js!");
+require("./medicamentos/medicamentos")
