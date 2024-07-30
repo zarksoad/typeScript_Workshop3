@@ -1,0 +1,15 @@
+{
+  "name": "mi-taller-typescript",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.3.0"
+  },
+  "dependencies": {}
+}
